@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-A quick and easy way to play mazes.
+A quick and easy way to play mazes on your browser.
 </h3>
 
 
