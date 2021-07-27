@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-A quick and easy way to play mazes on your browser.
+A quick and easy way to generate mazes on your browser. My very first Artifical Intelligence!
 </h3>
 
 
