@@ -1,4 +1,3 @@
-# Maze-Generator
 function Cell(i, j) {
   this.i = i;
   this.j = j;
@@ -12,7 +11,8 @@ function Cell(i, j) {
     var right = grid[index(i + 1, j)];
     var bottom = grid[index(i, j + 1)];
     var left = grid[index(i - 1, j)];
-
+    
+    // Recursive backtracker
     if (top && !top.visited) {
       neighbors.push(top);
     }
