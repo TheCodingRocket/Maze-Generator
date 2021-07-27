@@ -30,6 +30,7 @@ function draw() {
     grid[i].show();
   }
 
+  // Depth-first search
   current.visited = true;
   current.highlight();
   // STEP 1
